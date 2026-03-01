@@ -70,7 +70,7 @@ O projeto utiliza as seguintes dependências:
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/Isaac-code-maker/AulasSenaiVespertino/TrabalhoSpringBoot
+    git clone https://github.com/IsaacAiresTh/ProjetoTuristando
     ```
 
 2. **Navegue até o diretório do projeto:**
